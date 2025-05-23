@@ -61,3 +61,21 @@ footer {
     gap: 0.5rem;
   }
 }
+.signup-form {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 2rem;
+}
+
+.signup-form input {
+  flex: 1;
+  padding: 0.5rem;
+}
+
+.signup-form button {
+  padding: 0.5rem 1rem;
+  background-color: #2e3b4e;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
